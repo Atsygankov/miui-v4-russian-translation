@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept">Done</string>
+  <string name="accept">Готово</string>
   <string name="app_name">Диктофон</string>
   <string name="audio_db_album_name">Аудиозаписи</string>
   <string name="audio_db_artist_name">Ваши записи</string>
