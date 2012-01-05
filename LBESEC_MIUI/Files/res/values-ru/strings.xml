@@ -22,16 +22,16 @@
   <string name="Dashboard_Su_Enable_Content">"Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
   <string name="Dashboard_Su_Enable_Title">ROOT Permission</string>
   <string name="Generic_Canceling">Cancelling...</string>
-  <string name="Generic_Check">Check</string>
-  <string name="Generic_Clean">Clean</string>
-  <string name="Generic_Configuration">Settings</string>
+  <string name="Generic_Check">Проверить</string>
+  <string name="Generic_Clean">Очистить</string>
+  <string name="Generic_Configuration">Настройки</string>
   <string name="Generic_Copyright">Powered by Team LBE</string>
   <string name="Generic_Disable">Disable</string>
-  <string name="Generic_Enable">Enable</string>
+  <string name="Generic_Enable">Активировать</string>
   <string name="Generic_Good">Good</string>
   <string name="Generic_HideSystemApp">Hide System Apps</string>
   <string name="Generic_InvalidInput">Invalid input</string>
-  <string name="Generic_Loading">Loading...</string>
+  <string name="Generic_Loading">Загрузка...</string>
   <string name="Generic_MonitoredApp">Monitored Apps (%1$d)</string>
   <string name="Generic_Operating">Operating...</string>
   <string name="Generic_Optimize">Optimize</string>
@@ -56,8 +56,8 @@
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Count">Denied: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privacy</string>
-  <string name="HIPS_Group_Expense">Security</string>
-  <string name="HIPS_Group_Internet">Internet access</string>
+  <string name="HIPS_Group_Expense">Безопасность</string>
+  <string name="HIPS_Group_Internet">Интернет доступ</string>
   <string name="HIPS_Group_Location">Positioning</string>
   <string name="HIPS_Group_PIM">Personal information</string>
   <string name="HIPS_Group_PhoneID">Phone Identification</string>
@@ -66,7 +66,7 @@
   <string name="HIPS_Perm_AdjustVolumeInCall">adjust volume in call</string>
   <string name="HIPS_Perm_AllowAll">Allow all</string>
   <string name="HIPS_Perm_AnswerCall">answer current ringing call</string>
-  <string name="HIPS_Perm_Call">Phone Call</string>
+  <string name="HIPS_Perm_Call">Телефонный вызов</string>
   <string name="HIPS_Perm_CallLog">Call Logs</string>
   <string name="HIPS_Perm_CallLog_Access">read your call logs</string>
   <string name="HIPS_Perm_CallLog_Desc">Access your call logs</string>
@@ -98,11 +98,11 @@
   <string name="HIPS_Perm_Location_Source_Cellular">Source: Cellular Network</string>
   <string name="HIPS_Perm_Location_Source_GPS">Source: GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Source: Network</string>
-  <string name="HIPS_Perm_MobileNetwork">Mobile network</string>
+  <string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Access Internet through mobile network</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps have the permission to access Internet</string>
-  <string name="HIPS_Perm_Network">Internet</string>
-  <string name="HIPS_Perm_Network_Desc">Internet</string>
+  <string name="HIPS_Perm_Network">ИНтернет</string>
+  <string name="HIPS_Perm_Network_Desc">Интернет</string>
   <string name="HIPS_Perm_Network_Hint">%1$s apps have the permission to access Internet</string>
   <string name="HIPS_Perm_PhoneID">Phone ID</string>
   <string name="HIPS_Perm_PhoneID_Desc">Get your phone ID, including IMEI, IMSI, etc</string>
@@ -153,7 +153,7 @@
   <string name="Privacy_App_TrustDialog_Title">Trust this App</string>
   <string name="Privacy_App_Trust_Summary_Off">MIUI will monitor this App</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI will trust this App</string>
-  <string name="Privacy_App_Uninstall">Uninstall</string>
+  <string name="Privacy_App_Uninstall">Деинсталлировать</string>
   <string name="Privacy_Perm_Count">Allowed: %1$d Denied: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
   <string name="app_name">Permission Manager</string>
