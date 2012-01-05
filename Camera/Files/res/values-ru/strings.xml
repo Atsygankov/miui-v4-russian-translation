@@ -6,7 +6,7 @@
   <string name="accessibility_decrement">Отдалить %1$s</string>
   <string name="accessibility_increment">Приблизить %1$s</string>
   <string name="accessibility_mode_picker">Выбор Фото, видео или панорамы</string>
-  <string name="accessibility_review_thumbnail">Most recent photo</string>
+  <string name="accessibility_review_thumbnail">Последние фото</string>
   <string name="accessibility_second_level_indicators">Дополнительные параметры настоек</string>
   <string name="accessibility_shutter_button">Кнопка спуска затвора</string>
   <string name="accessibility_switch">%1$s переключатель</string>
@@ -38,7 +38,7 @@
   <string name="empty">" "</string>
   <string name="gallery_camera_bucket_name">Фото с камеры</string>
   <string name="gallery_camera_videos_bucket_name">Видео с камеры</string>
-  <string name="image_file_name_format">"IMG_dd-MM-yyyy_HHmmss"</string>
+  <string name="image_file_name_format">"IMG_дд-ММ-гггг_ЧЧммсс"</string>
   <string name="no_picture_to_share">Нет фото для отправки</string>
   <string name="no_storage">Перед ипользованием камеры вставьте SD-карту</string>
   <string name="no_video_to_share">Нет видео для отправки</string>
@@ -49,7 +49,7 @@
   <string name="pano_dialog_panorama_failed">Ошибка создания панорамы</string>
   <string name="pano_dialog_prepare_preview">Создание панорамы</string>
   <string name="pano_dialog_title">Панорама</string>
-  <string name="pano_file_name_format">"PANO_yyyyMMdd_HHmmss"</string>
+  <string name="pano_file_name_format">"PANO_ггггММдд_ЧЧммсс"</string>
   <string name="pano_review_saving_indication_str">Сохранение...</string>
   <string name="pano_too_fast_prompt">Слишком быстро</string>
   <string name="pref_camcorder_settings_category">Настройки записи</string>
@@ -59,7 +59,7 @@
   <string name="pref_camera_flashmode_entry_on">Вкл</string>
   <string name="pref_camera_flashmode_no_flash">Без вспышки</string>
   <string name="pref_camera_flashmode_title">Снять фото во время видеозаписи нажав в окне предварительного просмотра</string>
-  <string name="pref_camera_focusmode_default">continuous-picture</string>
+  <string name="pref_camera_focusmode_default">continous-picture</string>
   <string name="pref_camera_focusmode_entry_auto">Авто</string>
   <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
   <string name="pref_camera_focusmode_entry_macro">Макро</string>
@@ -126,14 +126,14 @@
   <string name="share_picture_via">Отправить картинку по</string>
   <string name="share_video_via">Отправить видео по</string>
   <string name="spaceIsLow_content">Ваша SD-карта переполнена. Удалите фотографии из Галереи</string>
-  <string name="switch_camera_id">Switch Camera</string>
+  <string name="switch_camera_id">Переключить камеру</string>
   <string name="switch_to_camera_label">Фотокамера</string>
   <string name="switch_to_panorama_label">Панорама</string>
   <string name="switch_to_video_label">Видеокамера</string>
   <string name="tap_to_focus">Нажмите для фокусировки</string>
   <string name="time_lapse_title">Интервал записи</string>
   <string name="video_camera_label">Видеокамера</string>
-  <string name="video_file_name_format">"VID_dd-MM-yyyy_HHmmss"</string>
+  <string name="video_file_name_format">"VID_дд-MM-гггг_ЧЧммсс"</string>
   <string name="video_reach_size_limit">Предельный размер</string>
   <string name="video_snapshot_hint">Нажмите на экран предварительного просмотра, чтобы сделать фото во время видеозаписи</string>
   <string name="wait">Пожалуйста, подождите…</string>
